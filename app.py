@@ -14,7 +14,7 @@ st.set_page_config(
 
 # --- Load the trained model ---
 # Ensure 'cats_vs_dogs_model.h5' is in the same directory as this app.py file
-MODEL_PATH = r'C:\Users\admin\Downloads\Praveen Project\my project\cat_vs_dog_classifier\cats_vs_dogs_model.h5'
+MODEL_PATH = 'cats_vs_dogs_model.h5'
 try:
     # Use st.cache_resource to load the model only once
     @st.cache_resource
