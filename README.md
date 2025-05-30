@@ -6,7 +6,7 @@ This project implements a binary image classification model to distinguish betwe
 
 Experience the classifier in action! Upload your own cat or dog image and see the model's prediction.
 
-[**👉 Try the Demo Here!**](YOUR_STREAMLIT_APP_DEMO_LINK_HERE)
+[**👉 Try the Demo Here!**](https://catvsdogclassifier-3kzwtqkraffp4bzhs79urn.streamlit.app/)
 
 
 ## 📦 Dataset
